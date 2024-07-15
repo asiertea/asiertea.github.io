@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://asiertea.github.io/sitemap
+Sitemap: https://asiertea.github.io/app/sitemap
+Sitemap: https://asiertea.github.io/assets/sitemap
+Sitemap: https://asiertea.github.io/css/sitemap
+Sitemap: https://asiertea.github.io/includes/sitemap
+Sitemap: https://asiertea.github.io/item/sitemap
+Sitemap: https://asiertea.github.io/src/sitemap
